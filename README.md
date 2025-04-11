@@ -1,4 +1,5 @@
 # connected-todo-app
+
 A simple todo app by using React and Typescript
 
 # 환경 설정
@@ -52,3 +53,11 @@ npm start
 ```
 
 성공적으로 실행할 경우 브라우저에서 자동으로 [웹사이트](http://localhost:3000)가 열린다.
+
+# 추천 Extension
+
+- ESLint
+- Prettier - Code Formatter
+- React Developer Tools
+- ES7+ React/Redux/React-Native snippets
+- GitLens
